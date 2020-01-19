@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <control namespace="MyPCFControl" constructor="Gravatar" version="0.0.22" display-name-key="Gravatar" description-key="Gravatar description" 
-  control-type="standard">
-
-
- <!-- <type-group name="textGroup">
+  <control namespace="MyPCFControl" constructor="Gravatar" version="0.0.23" display-name-key="Gravatar" description-key="Gravatar description" control-type="standard">
+    <!-- <type-group name="textGroup">
         <type>SingleLine.Email</type>
         <type>SingleLine.Text</type>      
       </type-group>
     <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" 
     of-type-group="textGroup" usage="bound" required="true" /> -->
-
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
-    <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="SingleLine.Email" usage="bound" required="true" /> 
+    <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="SingleLine.Email" usage="bound" required="true" />
     <!-- 
       Property node's of-type attribute can be of-type-group attribute. 
       Example:
@@ -25,8 +21,8 @@
       <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type-group="numbers" usage="bound" required="true" />
     -->
     <resources>
-      <code path="index.ts" order="1"/>
-       <css path="css/Gravatar.css" order="1" /> 
+      <code path="index.ts" order="1" />
+      <css path="css/Gravatar.css" order="1" />
       <!-- UNCOMMENT TO ADD MORE RESOURCES
      <css path="css/Gravatar.css" order="1" /> 
       <resx path="strings/Gravatar.1033.resx" version="1.0.0" />
