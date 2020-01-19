@@ -1,0 +1,542 @@
+2020-01-17 09:37:59.256 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 09:37:59.302 - Info	Processing Component: Entities
+2020-01-17 09:37:59.307 - Info	Processing Component: Roles
+2020-01-17 09:37:59.309 - Info	Processing Component: Workflows
+2020-01-17 09:37:59.310 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 09:37:59.310 - Info	Processing Component: Templates
+2020-01-17 09:37:59.311 - Info	Processing Component: EntityMaps
+2020-01-17 09:37:59.311 - Info	Processing Component: EntityRelationships
+2020-01-17 09:37:59.315 - Info	Processing Component: OrganizationSettings
+2020-01-17 09:37:59.316 - Info	Processing Component: optionsets
+2020-01-17 09:37:59.316 - Info	Processing Component: CustomControls
+2020-01-17 09:37:59.335 - Info	 - MyPCFControl.Gravatar
+2020-01-17 09:37:59.470 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 09:37:59.471 - Info	Processing Component: EntityDataProviders
+2020-01-17 09:37:59.569 - Info	
+Unmanaged Pack complete.
+
+2020-01-17 09:53:46.804 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 09:53:46.846 - Info	Processing Component: Entities
+2020-01-17 09:53:46.852 - Info	Processing Component: Roles
+2020-01-17 09:53:46.858 - Info	Processing Component: Workflows
+2020-01-17 09:53:46.859 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 09:53:46.859 - Info	Processing Component: Templates
+2020-01-17 09:53:46.863 - Info	Processing Component: EntityMaps
+2020-01-17 09:53:46.864 - Info	Processing Component: EntityRelationships
+2020-01-17 09:53:46.875 - Info	Processing Component: OrganizationSettings
+2020-01-17 09:53:46.876 - Info	Processing Component: optionsets
+2020-01-17 09:53:46.877 - Info	Processing Component: CustomControls
+2020-01-17 09:53:46.903 - Info	 - MyPCFControl.Gravatar
+2020-01-17 09:53:47.167 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 09:53:47.171 - Info	Processing Component: EntityDataProviders
+2020-01-17 09:53:47.264 - Info	
+Unmanaged Pack complete.
+
+2020-01-17 13:40:21.005 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 13:40:21.026 - Info	Processing Component: Entities
+2020-01-17 13:40:21.029 - Info	Processing Component: Roles
+2020-01-17 13:40:21.032 - Info	Processing Component: Workflows
+2020-01-17 13:40:21.035 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 13:40:21.037 - Info	Processing Component: Templates
+2020-01-17 13:40:21.041 - Info	Processing Component: EntityMaps
+2020-01-17 13:40:21.042 - Info	Processing Component: EntityRelationships
+2020-01-17 13:40:21.056 - Info	Processing Component: OrganizationSettings
+2020-01-17 13:40:21.056 - Info	Processing Component: optionsets
+2020-01-17 13:40:21.057 - Info	Processing Component: CustomControls
+2020-01-17 13:40:21.094 - Info	 - MyPCFControl.Gravatar
+2020-01-17 13:40:21.609 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 13:40:21.611 - Info	Processing Component: EntityDataProviders
+2020-01-17 13:40:21.677 - Info	
+Unmanaged Pack complete.
+
+2020-01-17 13:46:06.780 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 13:46:06.801 - Info	Processing Component: Entities
+2020-01-17 13:46:06.814 - Info	Processing Component: Roles
+2020-01-17 13:46:06.818 - Info	Processing Component: Workflows
+2020-01-17 13:46:06.820 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 13:46:06.820 - Info	Processing Component: Templates
+2020-01-17 13:46:06.822 - Info	Processing Component: EntityMaps
+2020-01-17 13:46:06.825 - Info	Processing Component: EntityRelationships
+2020-01-17 13:46:06.872 - Info	Processing Component: OrganizationSettings
+2020-01-17 13:46:06.874 - Info	Processing Component: optionsets
+2020-01-17 13:46:06.875 - Info	Processing Component: CustomControls
+2020-01-17 13:46:06.925 - Info	 - MyPCFControl.Gravatar
+2020-01-17 13:46:07.100 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 13:46:07.101 - Info	Processing Component: EntityDataProviders
+2020-01-17 13:46:07.146 - Info	
+Unmanaged Pack complete.
+
+2020-01-17 14:02:20.324 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 14:02:20.350 - Info	Processing Component: Entities
+2020-01-17 14:02:20.354 - Info	Processing Component: Roles
+2020-01-17 14:02:20.360 - Info	Processing Component: Workflows
+2020-01-17 14:02:20.362 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 14:02:20.363 - Info	Processing Component: Templates
+2020-01-17 14:02:20.365 - Info	Processing Component: EntityMaps
+2020-01-17 14:02:20.367 - Info	Processing Component: EntityRelationships
+2020-01-17 14:02:20.381 - Info	Processing Component: OrganizationSettings
+2020-01-17 14:02:20.382 - Info	Processing Component: optionsets
+2020-01-17 14:02:20.382 - Info	Processing Component: CustomControls
+2020-01-17 14:02:20.405 - Info	 - MyPCFControl.Gravatar
+2020-01-17 14:02:20.654 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 14:02:20.657 - Info	Processing Component: EntityDataProviders
+2020-01-17 14:02:20.702 - Info	
+Unmanaged Pack complete.
+
+2020-01-17 14:05:34.900 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-17 14:05:34.913 - Info	Processing Component: Entities
+2020-01-17 14:05:34.916 - Info	Processing Component: Roles
+2020-01-17 14:05:34.924 - Info	Processing Component: Workflows
+2020-01-17 14:05:34.925 - Info	Processing Component: FieldSecurityProfiles
+2020-01-17 14:05:34.925 - Info	Processing Component: Templates
+2020-01-17 14:05:34.926 - Info	Processing Component: EntityMaps
+2020-01-17 14:05:34.926 - Info	Processing Component: EntityRelationships
+2020-01-17 14:05:34.933 - Info	Processing Component: OrganizationSettings
+2020-01-17 14:05:34.933 - Info	Processing Component: optionsets
+2020-01-17 14:05:34.934 - Info	Processing Component: CustomControls
+2020-01-17 14:05:35.021 - Info	 - MyPCFControl.Gravatar
+2020-01-17 14:05:35.068 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-17 14:05:35.069 - Info	Processing Component: EntityDataProviders
+2020-01-17 14:05:35.098 - Info	
+Unmanaged Pack complete.
+
+2020-01-18 09:25:59.086 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-18 09:25:59.147 - Info	Processing Component: Entities
+2020-01-18 09:25:59.149 - Info	Processing Component: Roles
+2020-01-18 09:25:59.152 - Info	Processing Component: Workflows
+2020-01-18 09:25:59.152 - Info	Processing Component: FieldSecurityProfiles
+2020-01-18 09:25:59.153 - Info	Processing Component: Templates
+2020-01-18 09:25:59.153 - Info	Processing Component: EntityMaps
+2020-01-18 09:25:59.154 - Info	Processing Component: EntityRelationships
+2020-01-18 09:25:59.177 - Info	Processing Component: OrganizationSettings
+2020-01-18 09:25:59.178 - Info	Processing Component: optionsets
+2020-01-18 09:25:59.178 - Info	Processing Component: CustomControls
+2020-01-18 09:25:59.204 - Info	 - MyPCFControl.Gravatar
+2020-01-18 09:25:59.314 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-18 09:25:59.318 - Info	Processing Component: EntityDataProviders
+2020-01-18 09:25:59.361 - Info	
+Unmanaged Pack complete.
+
+2020-01-18 09:27:08.389 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-18 09:27:08.401 - Info	Processing Component: Entities
+2020-01-18 09:27:08.404 - Info	Processing Component: Roles
+2020-01-18 09:27:08.407 - Info	Processing Component: Workflows
+2020-01-18 09:27:08.407 - Info	Processing Component: FieldSecurityProfiles
+2020-01-18 09:27:08.407 - Info	Processing Component: Templates
+2020-01-18 09:27:08.408 - Info	Processing Component: EntityMaps
+2020-01-18 09:27:08.408 - Info	Processing Component: EntityRelationships
+2020-01-18 09:27:08.413 - Info	Processing Component: OrganizationSettings
+2020-01-18 09:27:08.414 - Info	Processing Component: optionsets
+2020-01-18 09:27:08.414 - Info	Processing Component: CustomControls
+2020-01-18 09:27:08.425 - Info	 - MyPCFControl.Gravatar
+2020-01-18 09:27:08.492 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-18 09:27:08.494 - Info	Processing Component: EntityDataProviders
+2020-01-18 09:27:08.514 - Info	
+Unmanaged Pack complete.
+
+2020-01-18 09:37:35.309 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-18 09:37:35.321 - Info	Processing Component: Entities
+2020-01-18 09:37:35.324 - Info	Processing Component: Roles
+2020-01-18 09:37:35.327 - Info	Processing Component: Workflows
+2020-01-18 09:37:35.327 - Info	Processing Component: FieldSecurityProfiles
+2020-01-18 09:37:35.328 - Info	Processing Component: Templates
+2020-01-18 09:37:35.329 - Info	Processing Component: EntityMaps
+2020-01-18 09:37:35.329 - Info	Processing Component: EntityRelationships
+2020-01-18 09:37:35.334 - Info	Processing Component: OrganizationSettings
+2020-01-18 09:37:35.334 - Info	Processing Component: optionsets
+2020-01-18 09:37:35.334 - Info	Processing Component: CustomControls
+2020-01-18 09:37:35.345 - Info	 - MyPCFControl.Gravatar
+2020-01-18 09:37:35.375 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-18 09:37:35.376 - Info	Processing Component: EntityDataProviders
+2020-01-18 09:37:35.395 - Info	
+Unmanaged Pack complete.
+
+2020-01-18 16:48:59.470 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-18 16:48:59.492 - Info	Processing Component: Entities
+2020-01-18 16:48:59.495 - Info	Processing Component: Roles
+2020-01-18 16:48:59.499 - Info	Processing Component: Workflows
+2020-01-18 16:48:59.499 - Info	Processing Component: FieldSecurityProfiles
+2020-01-18 16:48:59.499 - Info	Processing Component: Templates
+2020-01-18 16:48:59.500 - Info	Processing Component: EntityMaps
+2020-01-18 16:48:59.500 - Info	Processing Component: EntityRelationships
+2020-01-18 16:48:59.512 - Info	Processing Component: OrganizationSettings
+2020-01-18 16:48:59.512 - Info	Processing Component: optionsets
+2020-01-18 16:48:59.513 - Info	Processing Component: CustomControls
+2020-01-18 16:48:59.521 - Info	 - MyPCFControl.Gravatar
+2020-01-18 16:48:59.550 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-18 16:48:59.552 - Info	Processing Component: EntityDataProviders
+2020-01-18 16:48:59.571 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 10:38:50.142 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 10:38:50.251 - Info	Processing Component: Entities
+2020-01-19 10:38:50.256 - Info	Processing Component: Roles
+2020-01-19 10:38:50.264 - Info	Processing Component: Workflows
+2020-01-19 10:38:50.264 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 10:38:50.265 - Info	Processing Component: Templates
+2020-01-19 10:38:50.267 - Info	Processing Component: EntityMaps
+2020-01-19 10:38:50.267 - Info	Processing Component: EntityRelationships
+2020-01-19 10:38:50.297 - Info	Processing Component: OrganizationSettings
+2020-01-19 10:38:50.298 - Info	Processing Component: optionsets
+2020-01-19 10:38:50.298 - Info	Processing Component: CustomControls
+2020-01-19 10:38:50.344 - Info	 - MyPCFControl.Gravatar
+2020-01-19 10:38:50.808 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 10:38:50.813 - Info	Processing Component: EntityDataProviders
+2020-01-19 10:38:50.952 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 11:11:34.038 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 11:11:34.163 - Info	Processing Component: Entities
+2020-01-19 11:11:34.177 - Info	Processing Component: Roles
+2020-01-19 11:11:34.190 - Info	Processing Component: Workflows
+2020-01-19 11:11:34.192 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 11:11:34.193 - Info	Processing Component: Templates
+2020-01-19 11:11:34.195 - Info	Processing Component: EntityMaps
+2020-01-19 11:11:34.196 - Info	Processing Component: EntityRelationships
+2020-01-19 11:11:34.215 - Info	Processing Component: OrganizationSettings
+2020-01-19 11:11:34.216 - Info	Processing Component: optionsets
+2020-01-19 11:11:34.217 - Info	Processing Component: CustomControls
+2020-01-19 11:11:34.261 - Info	 - MyPCFControl.Gravatar
+2020-01-19 11:11:34.756 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 11:11:34.760 - Info	Processing Component: EntityDataProviders
+2020-01-19 11:11:34.827 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 11:13:39.913 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 11:13:39.939 - Info	Processing Component: Entities
+2020-01-19 11:13:39.946 - Info	Processing Component: Roles
+2020-01-19 11:13:39.953 - Info	Processing Component: Workflows
+2020-01-19 11:13:39.953 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 11:13:39.954 - Info	Processing Component: Templates
+2020-01-19 11:13:39.956 - Info	Processing Component: EntityMaps
+2020-01-19 11:13:39.956 - Info	Processing Component: EntityRelationships
+2020-01-19 11:13:39.967 - Info	Processing Component: OrganizationSettings
+2020-01-19 11:13:39.969 - Info	Processing Component: optionsets
+2020-01-19 11:13:39.970 - Info	Processing Component: CustomControls
+2020-01-19 11:13:40.002 - Info	 - MyPCFControl.Gravatar
+2020-01-19 11:13:40.068 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 11:13:40.070 - Info	Processing Component: EntityDataProviders
+2020-01-19 11:13:40.199 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 11:30:53.953 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 11:30:53.978 - Info	Processing Component: Entities
+2020-01-19 11:30:53.985 - Info	Processing Component: Roles
+2020-01-19 11:30:53.991 - Info	Processing Component: Workflows
+2020-01-19 11:30:53.992 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 11:30:53.992 - Info	Processing Component: Templates
+2020-01-19 11:30:53.994 - Info	Processing Component: EntityMaps
+2020-01-19 11:30:53.994 - Info	Processing Component: EntityRelationships
+2020-01-19 11:30:54.005 - Info	Processing Component: OrganizationSettings
+2020-01-19 11:30:54.007 - Info	Processing Component: optionsets
+2020-01-19 11:30:54.007 - Info	Processing Component: CustomControls
+2020-01-19 11:30:54.038 - Info	 - MyPCFControl.Gravatar
+2020-01-19 11:30:54.382 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 11:30:54.384 - Info	Processing Component: EntityDataProviders
+2020-01-19 11:30:54.439 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 11:39:37.565 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 11:39:37.580 - Info	Processing Component: Entities
+2020-01-19 11:39:37.583 - Info	Processing Component: Roles
+2020-01-19 11:39:37.586 - Info	Processing Component: Workflows
+2020-01-19 11:39:37.586 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 11:39:37.587 - Info	Processing Component: Templates
+2020-01-19 11:39:37.588 - Info	Processing Component: EntityMaps
+2020-01-19 11:39:37.588 - Info	Processing Component: EntityRelationships
+2020-01-19 11:39:37.594 - Info	Processing Component: OrganizationSettings
+2020-01-19 11:39:37.595 - Info	Processing Component: optionsets
+2020-01-19 11:39:37.595 - Info	Processing Component: CustomControls
+2020-01-19 11:39:37.611 - Info	 - MyPCFControl.Gravatar
+2020-01-19 11:39:37.709 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 11:39:37.711 - Info	Processing Component: EntityDataProviders
+2020-01-19 11:39:37.733 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 11:57:19.637 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 11:57:19.649 - Info	Processing Component: Entities
+2020-01-19 11:57:19.653 - Info	Processing Component: Roles
+2020-01-19 11:57:19.656 - Info	Processing Component: Workflows
+2020-01-19 11:57:19.656 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 11:57:19.657 - Info	Processing Component: Templates
+2020-01-19 11:57:19.657 - Info	Processing Component: EntityMaps
+2020-01-19 11:57:19.658 - Info	Processing Component: EntityRelationships
+2020-01-19 11:57:19.663 - Info	Processing Component: OrganizationSettings
+2020-01-19 11:57:19.664 - Info	Processing Component: optionsets
+2020-01-19 11:57:19.664 - Info	Processing Component: CustomControls
+2020-01-19 11:57:19.678 - Info	 - MyPCFControl.Gravatar
+2020-01-19 11:57:19.864 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 11:57:19.866 - Info	Processing Component: EntityDataProviders
+2020-01-19 11:57:19.885 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 12:59:43.772 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 12:59:43.785 - Info	Processing Component: Entities
+2020-01-19 12:59:43.788 - Info	Processing Component: Roles
+2020-01-19 12:59:43.792 - Info	Processing Component: Workflows
+2020-01-19 12:59:43.792 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 12:59:43.792 - Info	Processing Component: Templates
+2020-01-19 12:59:43.793 - Info	Processing Component: EntityMaps
+2020-01-19 12:59:43.794 - Info	Processing Component: EntityRelationships
+2020-01-19 12:59:43.799 - Info	Processing Component: OrganizationSettings
+2020-01-19 12:59:43.799 - Info	Processing Component: optionsets
+2020-01-19 12:59:43.800 - Info	Processing Component: CustomControls
+2020-01-19 12:59:43.813 - Info	 - MyPCFControl.Gravatar
+2020-01-19 12:59:44.352 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 12:59:44.353 - Info	Processing Component: EntityDataProviders
+2020-01-19 12:59:44.375 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 13:07:58.706 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 13:07:58.717 - Info	Processing Component: Entities
+2020-01-19 13:07:58.720 - Info	Processing Component: Roles
+2020-01-19 13:07:58.724 - Info	Processing Component: Workflows
+2020-01-19 13:07:58.724 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 13:07:58.724 - Info	Processing Component: Templates
+2020-01-19 13:07:58.725 - Info	Processing Component: EntityMaps
+2020-01-19 13:07:58.725 - Info	Processing Component: EntityRelationships
+2020-01-19 13:07:58.730 - Info	Processing Component: OrganizationSettings
+2020-01-19 13:07:58.731 - Info	Processing Component: optionsets
+2020-01-19 13:07:58.731 - Info	Processing Component: CustomControls
+2020-01-19 13:07:58.745 - Info	 - MyPCFControl.Gravatar
+2020-01-19 13:07:58.776 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 13:07:58.777 - Info	Processing Component: EntityDataProviders
+2020-01-19 13:07:58.796 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 13:14:58.235 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 13:14:58.279 - Info	Processing Component: Entities
+2020-01-19 13:14:58.282 - Info	Processing Component: Roles
+2020-01-19 13:14:58.285 - Info	Processing Component: Workflows
+2020-01-19 13:14:58.285 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 13:14:58.286 - Info	Processing Component: Templates
+2020-01-19 13:14:58.287 - Info	Processing Component: EntityMaps
+2020-01-19 13:14:58.287 - Info	Processing Component: EntityRelationships
+2020-01-19 13:14:58.292 - Info	Processing Component: OrganizationSettings
+2020-01-19 13:14:58.293 - Info	Processing Component: optionsets
+2020-01-19 13:14:58.294 - Info	Processing Component: CustomControls
+2020-01-19 13:14:58.306 - Info	 - MyPCFControl.Gravatar
+2020-01-19 13:14:58.341 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 13:14:58.343 - Info	Processing Component: EntityDataProviders
+2020-01-19 13:14:58.365 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 13:20:39.837 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 13:20:39.849 - Info	Processing Component: Entities
+2020-01-19 13:20:39.851 - Info	Processing Component: Roles
+2020-01-19 13:20:39.855 - Info	Processing Component: Workflows
+2020-01-19 13:20:39.855 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 13:20:39.855 - Info	Processing Component: Templates
+2020-01-19 13:20:39.856 - Info	Processing Component: EntityMaps
+2020-01-19 13:20:39.856 - Info	Processing Component: EntityRelationships
+2020-01-19 13:20:39.862 - Info	Processing Component: OrganizationSettings
+2020-01-19 13:20:39.863 - Info	Processing Component: optionsets
+2020-01-19 13:20:39.863 - Info	Processing Component: CustomControls
+2020-01-19 13:20:39.876 - Info	 - MyPCFControl.Gravatar
+2020-01-19 13:20:39.908 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 13:20:39.909 - Info	Processing Component: EntityDataProviders
+2020-01-19 13:20:39.930 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 13:31:23.678 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 13:31:23.692 - Info	Processing Component: Entities
+2020-01-19 13:31:23.695 - Info	Processing Component: Roles
+2020-01-19 13:31:23.698 - Info	Processing Component: Workflows
+2020-01-19 13:31:23.698 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 13:31:23.698 - Info	Processing Component: Templates
+2020-01-19 13:31:23.700 - Info	Processing Component: EntityMaps
+2020-01-19 13:31:23.700 - Info	Processing Component: EntityRelationships
+2020-01-19 13:31:23.709 - Info	Processing Component: OrganizationSettings
+2020-01-19 13:31:23.710 - Info	Processing Component: optionsets
+2020-01-19 13:31:23.710 - Info	Processing Component: CustomControls
+2020-01-19 13:31:23.724 - Info	 - MyPCFControl.Gravatar
+2020-01-19 13:31:23.826 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 13:31:23.827 - Info	Processing Component: EntityDataProviders
+2020-01-19 13:31:23.850 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 14:34:50.014 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 14:34:50.026 - Info	Processing Component: Entities
+2020-01-19 14:34:50.030 - Info	Processing Component: Roles
+2020-01-19 14:34:50.033 - Info	Processing Component: Workflows
+2020-01-19 14:34:50.033 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 14:34:50.033 - Info	Processing Component: Templates
+2020-01-19 14:34:50.034 - Info	Processing Component: EntityMaps
+2020-01-19 14:34:50.034 - Info	Processing Component: EntityRelationships
+2020-01-19 14:34:50.042 - Info	Processing Component: OrganizationSettings
+2020-01-19 14:34:50.043 - Info	Processing Component: optionsets
+2020-01-19 14:34:50.044 - Info	Processing Component: CustomControls
+2020-01-19 14:34:50.058 - Info	 - MyPCFControl.Gravatar
+2020-01-19 14:34:50.338 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 14:34:50.339 - Info	Processing Component: EntityDataProviders
+2020-01-19 14:34:50.364 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 14:49:19.211 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip
+
+2020-01-19 14:49:19.225 - Info	Processing Component: Entities
+2020-01-19 14:49:19.228 - Info	Processing Component: Roles
+2020-01-19 14:49:19.231 - Info	Processing Component: Workflows
+2020-01-19 14:49:19.232 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 14:49:19.232 - Info	Processing Component: Templates
+2020-01-19 14:49:19.233 - Info	Processing Component: EntityMaps
+2020-01-19 14:49:19.233 - Info	Processing Component: EntityRelationships
+2020-01-19 14:49:19.240 - Info	Processing Component: OrganizationSettings
+2020-01-19 14:49:19.241 - Info	Processing Component: optionsets
+2020-01-19 14:49:19.242 - Info	Processing Component: CustomControls
+2020-01-19 14:49:19.251 - Info	 - MyPCFControl.Gravatar
+2020-01-19 14:49:19.393 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 14:49:19.394 - Info	Processing Component: EntityDataProviders
+2020-01-19 14:49:19.418 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 16:08:30.336 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip and bin\Debug\Solutions_managed.zip
+
+2020-01-19 16:08:30.359 - Info	Processing Component: Entities
+2020-01-19 16:08:30.364 - Info	Processing Component: Roles
+2020-01-19 16:08:30.373 - Info	Processing Component: Workflows
+2020-01-19 16:08:30.374 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:08:30.375 - Info	Processing Component: Templates
+2020-01-19 16:08:30.377 - Info	Processing Component: EntityMaps
+2020-01-19 16:08:30.377 - Info	Processing Component: EntityRelationships
+2020-01-19 16:08:30.401 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:08:30.403 - Info	Processing Component: optionsets
+2020-01-19 16:08:30.404 - Info	Processing Component: CustomControls
+2020-01-19 16:08:30.423 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:08:30.496 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:08:30.499 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:08:30.543 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 16:08:30.545 - Info	Processing Component: Entities
+2020-01-19 16:08:30.545 - Info	Processing Component: Roles
+2020-01-19 16:08:30.545 - Info	Processing Component: Workflows
+2020-01-19 16:08:30.546 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:08:30.546 - Info	Processing Component: Templates
+2020-01-19 16:08:30.547 - Info	Processing Component: EntityMaps
+2020-01-19 16:08:30.547 - Info	Processing Component: EntityRelationships
+2020-01-19 16:08:30.548 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:08:30.549 - Info	Processing Component: optionsets
+2020-01-19 16:08:30.549 - Info	Processing Component: CustomControls
+2020-01-19 16:08:30.553 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:08:30.556 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:08:30.556 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:08:30.578 - Info	
+Managed Pack complete.
+
+2020-01-19 16:14:22.795 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip and bin\Debug\Solutions_managed.zip
+
+2020-01-19 16:14:22.848 - Info	Processing Component: Entities
+2020-01-19 16:14:22.859 - Info	Processing Component: Roles
+2020-01-19 16:14:22.871 - Info	Processing Component: Workflows
+2020-01-19 16:14:22.872 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:14:22.874 - Info	Processing Component: Templates
+2020-01-19 16:14:22.878 - Info	Processing Component: EntityMaps
+2020-01-19 16:14:22.879 - Info	Processing Component: EntityRelationships
+2020-01-19 16:14:22.903 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:14:22.907 - Info	Processing Component: optionsets
+2020-01-19 16:14:22.908 - Info	Processing Component: CustomControls
+2020-01-19 16:14:22.965 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:14:23.102 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:14:23.105 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:14:23.158 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 16:14:23.161 - Info	Processing Component: Entities
+2020-01-19 16:14:23.161 - Info	Processing Component: Roles
+2020-01-19 16:14:23.162 - Info	Processing Component: Workflows
+2020-01-19 16:14:23.162 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:14:23.163 - Info	Processing Component: Templates
+2020-01-19 16:14:23.163 - Info	Processing Component: EntityMaps
+2020-01-19 16:14:23.164 - Info	Processing Component: EntityRelationships
+2020-01-19 16:14:23.165 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:14:23.165 - Info	Processing Component: optionsets
+2020-01-19 16:14:23.166 - Info	Processing Component: CustomControls
+2020-01-19 16:14:23.171 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:14:23.177 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:14:23.178 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:14:23.204 - Info	
+Managed Pack complete.
+
+2020-01-19 16:35:00.900 - Info	
+Packing C:\PCFControl\Gravatar\Solutions\obj\Debug\ to bin\Debug\Solutions.zip and bin\Debug\Solutions_managed.zip
+
+2020-01-19 16:35:00.925 - Info	Processing Component: Entities
+2020-01-19 16:35:00.931 - Info	Processing Component: Roles
+2020-01-19 16:35:00.938 - Info	Processing Component: Workflows
+2020-01-19 16:35:00.938 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:35:00.939 - Info	Processing Component: Templates
+2020-01-19 16:35:00.940 - Info	Processing Component: EntityMaps
+2020-01-19 16:35:00.941 - Info	Processing Component: EntityRelationships
+2020-01-19 16:35:00.952 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:35:00.953 - Info	Processing Component: optionsets
+2020-01-19 16:35:00.954 - Info	Processing Component: CustomControls
+2020-01-19 16:35:00.979 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:35:01.059 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:35:01.062 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:35:01.109 - Info	
+Unmanaged Pack complete.
+
+2020-01-19 16:35:01.111 - Info	Processing Component: Entities
+2020-01-19 16:35:01.111 - Info	Processing Component: Roles
+2020-01-19 16:35:01.112 - Info	Processing Component: Workflows
+2020-01-19 16:35:01.112 - Info	Processing Component: FieldSecurityProfiles
+2020-01-19 16:35:01.112 - Info	Processing Component: Templates
+2020-01-19 16:35:01.112 - Info	Processing Component: EntityMaps
+2020-01-19 16:35:01.112 - Info	Processing Component: EntityRelationships
+2020-01-19 16:35:01.113 - Info	Processing Component: OrganizationSettings
+2020-01-19 16:35:01.114 - Info	Processing Component: optionsets
+2020-01-19 16:35:01.114 - Info	Processing Component: CustomControls
+2020-01-19 16:35:01.118 - Info	 - MyPCFControl.Gravatar
+2020-01-19 16:35:01.120 - Info	Processing Component: SolutionPluginAssemblies
+2020-01-19 16:35:01.121 - Info	Processing Component: EntityDataProviders
+2020-01-19 16:35:01.147 - Info	
+Managed Pack complete.
+
